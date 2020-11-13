@@ -6,9 +6,11 @@
     <string name="next">To Second</string>
     <string name="previous">To Third</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Second fragment</string>
-    <string name="pozycja_3">Pozycja 3</string>
-    <string name="pozycja_1">Pozycja 1</string>
-    <string name="pozycja_2">Pozycja 2</string>
+    <string name="hello_first_fragment">1</string>
+    <string name="hello_second_fragment">2</string>
+    <string name="gratulacja_ostatni_fragment">3</string>
+    <string name="pozycja_3">Fragment 3</string>
+    <string name="pozycja_1">Fragment 1</string>
+    <string name="pozycja_2">Fragment 2</string>
+
 </resources>
